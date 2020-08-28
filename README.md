@@ -1,6 +1,7 @@
 ## Dark Mode With Material-Ui
 ```
-This is a simple project where we apply a dark theme with material-ui and react. We also add it to the localstorage to make it a constant theme.
+This is a simple project where we apply a dark theme with material-ui and react. 
+We also add it to the localstorage to make it a constant theme.
 ```
 ---
 
